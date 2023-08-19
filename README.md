@@ -11,7 +11,7 @@ This project is not just about coding; it's about bringing the joy of gaming and
 
 ## 🌟 Features
 
-- 🏓 Single-player gameplay.
+- 🏓 Double-player gameplay.
 - 🎮 Paddle controls for each player.
 - ⚡ Ball movement and collision detection.
 - 🏆 Score tracking for each player.
